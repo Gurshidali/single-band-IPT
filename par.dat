@@ -1,0 +1,4 @@
+# wm step_size
+10.0 0.01
+# U init sol mu0 Temp
+2.5 0 M 0.0 0.0
