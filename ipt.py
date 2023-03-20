@@ -74,14 +74,6 @@ def selfenergy(w,rho,ferm,ss):
   SelfE=Re_SE-ii*np.pi*rho_SE
   return SelfE
 
-
-#def occupancies()
-#  r2=r2+(-G_new.imag/np.pi)
-
-
-#------------------------------------------------------
-
-
 #------------------------------------------------------#
 #------------------------------------------------------#
 #	MAIN PROGRAM STARTS HERE
